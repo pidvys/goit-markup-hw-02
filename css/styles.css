@@ -139,6 +139,9 @@ background-color: var(--color-ocean);
 .team{
     background-color: var(--color-cloud);
 }
+.team-item{
+    background-color: var(--color-white);
+}
 .team-subtitle{
     text-align: center;
 }
